@@ -10,4 +10,5 @@ Delete the file betty
 Delete the directory
 Write a script that changes the working directory to the previous one
 Write a script that lists all files
-Write a script that prints the type of the file named iamafile   
+Write a script that prints the type of the file named iamafile
+We are symbols, and inhabit symbols   
