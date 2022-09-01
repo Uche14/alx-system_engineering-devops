@@ -4,3 +4,4 @@ a script that changes the working directory to the user’s home directory
 The long format
 current directory contents, including hidden files
 Display current directory contents.
+Create a script that creates a directory 
