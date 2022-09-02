@@ -5,4 +5,5 @@ Write a script that changes the owner of the file
 Write a script that creates an empty file
 Write a script that adds execute permission to the owner of the file
 Write a script that adds multiple permissions
-Write a script that adds execution permission to the owner, the group owner and the other users, to the file 
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file
+Write a script that sets the permission to the file 
