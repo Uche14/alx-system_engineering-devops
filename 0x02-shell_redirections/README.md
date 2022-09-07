@@ -13,3 +13,4 @@ No more javascript
 Write a script that counts the number of directories and sub-directories
 Create a script that displays the 10 newest files in the current directory
 Create a script that takes a list of words as input 
+Display lines containing the pattern "root"
