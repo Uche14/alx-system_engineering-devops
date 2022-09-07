@@ -16,3 +16,4 @@ Create a script that takes a list of words as input
 Display lines containing the pattern "root"
 Display the number of lines that contain the pattern “bin”
 Display lines containing the pattern “root” and 3 lines
+Display all the lines in the file 
